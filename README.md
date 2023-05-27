@@ -1,4 +1,4 @@
-![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/5a686ce8-c557-40b1-8777-5a1bf4f7927f)
+     ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/5a686ce8-c557-40b1-8777-5a1bf4f7927f)
 
 
 # Online-Payment-Fraud-Detection---Blossom-Bank
@@ -47,14 +47,17 @@ Overall, an effective fraud detection solution powered by data mining can help t
 # Exploratory Data Analysis
 
 Univariate Analysis: Distriution of Transaction types
-![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/a801f4bc-e4d4-4cf2-b577-2ab970e72d96)
+
+       ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/a801f4bc-e4d4-4cf2-b577-2ab970e72d96)
 
  
 Bivariate Analysis: Comparison of old and new balance
-![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/7f2aeec9-a6c3-45ce-b488-c91f33f91b66)
+
+      ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/7f2aeec9-a6c3-45ce-b488-c91f33f91b66)
 
  
 Correlation Matrix : Heatmap to show the relatioship between the dependent variables and independent variables
+
  ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/97b8eb41-c057-4719-a046-cff54f3f0b09)
 
 # Data Preprocessing Steps:
@@ -138,6 +141,7 @@ Accuracy Score: 0.9998378752115967
 Accuracy Score: 0.9985265717759817
 
 ## Confusion Matrix (Evaluation of the Predictions)
+
 ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/afbc5011-eb40-46a6-99b8-5106d57242db)
 
 209,484 true negatives (TN): Model correctly predicted non-fraudulent transactions.
