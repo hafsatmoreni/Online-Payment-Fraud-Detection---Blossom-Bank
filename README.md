@@ -120,6 +120,14 @@ Accuracy Score: 0.9998378752115967
 Accuracy Score: 0.9985265717759817
 
 Confusion Matrix (Evaluation of the Predictions)
+
+209,484 true negatives (TN): Model correctly predicted non-fraudulent transactions.
+
+27 false positives (FP): Model incorrectly predicted non-fraudulent when actual fraud occurred
+
+7 false negatives (FN): Model incorrectly predicted fraud when actual non-fraudulent occurred.
+
+197 true positives (TP): Model correctly predicted fraudulent transactions.
  
 
 
