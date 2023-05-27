@@ -48,17 +48,17 @@ Overall, an effective fraud detection solution powered by data mining can help t
 
 Univariate Analysis: Distriution of Transaction types
 
-       ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/a801f4bc-e4d4-4cf2-b577-2ab970e72d96)
+![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/a801f4bc-e4d4-4cf2-b577-2ab970e72d96)
 
  
 Bivariate Analysis: Comparison of old and new balance
 
-      ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/7f2aeec9-a6c3-45ce-b488-c91f33f91b66)
+![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/7f2aeec9-a6c3-45ce-b488-c91f33f91b66)
 
  
 Correlation Matrix : Heatmap to show the relatioship between the dependent variables and independent variables
 
- ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/97b8eb41-c057-4719-a046-cff54f3f0b09)
+![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/97b8eb41-c057-4719-a046-cff54f3f0b09)
 
 # Data Preprocessing Steps:
 
