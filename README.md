@@ -1,3 +1,6 @@
+![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/5a686ce8-c557-40b1-8777-5a1bf4f7927f)
+
+
 # Online-Payment-Fraud-Detection---Blossom-Bank
 
 Built a Machine Learning Model to Predict Online Payment Fraud for Blossom Bank
@@ -30,35 +33,49 @@ Overall, an effective fraud detection solution powered by data mining can help t
 
 # First Step:
 
-	Read in the data
+•	Read in the data
+![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/475f61d2-3d59-4a76-8cf2-244b37300cbf)
+
  
-	Check for information about the dataset
+•	Check for information about the dataset
+![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/ff33680a-40fd-45a3-be8d-c4cae815648a)
+
  
-	Check for null values : No null values
- 
+•	Check for null values : No null values
+ ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/4f691840-6c98-4b7c-8675-aac200228d6d)
+
 # Exploratory Data Analysis
 
 Univariate Analysis: Distriution of Transaction types
+![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/a801f4bc-e4d4-4cf2-b577-2ab970e72d96)
+
  
 Bivariate Analysis: Comparison of old and new balance
+![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/7f2aeec9-a6c3-45ce-b488-c91f33f91b66)
+
  
 Correlation Matrix : Heatmap to show the relatioship between the dependent variables and independent variables
- 
+ ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/97b8eb41-c057-4719-a046-cff54f3f0b09)
+
 # Data Preprocessing Steps:
 
  ## Feature engineering
 
 I.	Separated the target variable from the dataset and dropped redundant variables. The target variable ‘isFraud’ was dropped alongside ‘nameOrig’ and ‘nameDest’.
+![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/06aea029-281e-4f71-96af-d9910e80808e)
 
 II.	Created a new column to show the differences between new balance and old balance
- 
+ ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/71b974f3-c7f7-4876-8c48-dcc096330fd3)
+
  # Encoding 
 
 The One-hot encoding Style was implemented to change categorical variables into numerical variables. The ‘type’ column has been encoded as shown below
- 
+ ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/82fe2315-b53d-48eb-87d9-33892153716a)
+
  # Scaling
 
 The dataset was scaled using MinMaxScaler to deal with high variability or high variance in a dataset. This will compress the data in the dataset while still maintaining the information in the data set.
+![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/f79c8db4-d294-45a6-b307-47737aa7dc0c)
 
 # Model Building
 
@@ -121,6 +138,7 @@ Accuracy Score: 0.9998378752115967
 Accuracy Score: 0.9985265717759817
 
 ## Confusion Matrix (Evaluation of the Predictions)
+![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/afbc5011-eb40-46a6-99b8-5106d57242db)
 
 209,484 true negatives (TN): Model correctly predicted non-fraudulent transactions.
 
