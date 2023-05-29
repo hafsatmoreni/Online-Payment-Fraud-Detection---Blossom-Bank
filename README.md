@@ -34,14 +34,17 @@ Overall, an effective fraud detection solution powered by data mining can help t
 # First Step:
 
 •	Read in the data
+
 ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/475f61d2-3d59-4a76-8cf2-244b37300cbf)
 
  
 •	Check for information about the dataset
+
 ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/ff33680a-40fd-45a3-be8d-c4cae815648a)
 
  
 •	Check for null values : No null values
+
  ![image](https://github.com/hafsatmoreni/Online-Payment-Fraud-Detection---Blossom-Bank/assets/115378321/4f691840-6c98-4b7c-8675-aac200228d6d)
 
 # Exploratory Data Analysis
